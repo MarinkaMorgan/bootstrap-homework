@@ -73,11 +73,6 @@ p {
   color: white;
 }
 
-.homepage-link {
-  color: var(--primary-color);
-  text-align: center;
-  display: block;
-}
 
 .about-paragraphs {
   display: flex;
